@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		565ABEB62738C27100D3C8BE /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 565ABEB52738C27100D3C8BE /* QuestionViewController.swift */; };
 		56AF37FB2735FAA600844709 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AF37FA2735FAA600844709 /* AppDelegate.swift */; };
 		56AF37FD2735FAA600844709 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AF37FC2735FAA600844709 /* SceneDelegate.swift */; };
 		56AF37FF2735FAA600844709 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AF37FE2735FAA600844709 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		565ABEB52738C27100D3C8BE /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
 		56AF37F72735FAA600844709 /* MarubatsuApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MarubatsuApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56AF37FA2735FAA600844709 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		56AF37FC2735FAA600844709 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				56AF37FC2735FAA600844709 /* SceneDelegate.swift */,
 				56AF37FE2735FAA600844709 /* ViewController.swift */,
 				56AF38002735FAA600844709 /* Main.storyboard */,
+				565ABEB52738C27100D3C8BE /* QuestionViewController.swift */,
 				56AF38032735FAAE00844709 /* Assets.xcassets */,
 				56AF38052735FAAE00844709 /* LaunchScreen.storyboard */,
 				56AF38082735FAAE00844709 /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				56AF37FF2735FAA600844709 /* ViewController.swift in Sources */,
 				56AF37FB2735FAA600844709 /* AppDelegate.swift in Sources */,
+				565ABEB62738C27100D3C8BE /* QuestionViewController.swift in Sources */,
 				56AF37FD2735FAA600844709 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
